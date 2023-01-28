@@ -1,0 +1,6 @@
+#Addition of two numbers in python
+def addd(num1,num2):
+  return num1+num2
+num1=int(input())
+num2=int(input())
+addd(num1,num2)
